@@ -29,7 +29,7 @@
 + 优化通行码布局并添加背景等。
 
 ## 使用方法
->  系统环境：Android 9 ~ Android13 Beta 1
+>  系统环境要求：Android 9 ~ Android13 Beta 1
 >
 >  注意：**本程序随时可能在以下OEM系统失效：<br>EMUI/HarmonyOS<br>ColorOS<br>MIUI<br>etc.**
 <br>上述系统的[PMS核心服务](https://developer.android.com/reference/android/content/pm/PackageManager)均有不同程度的缺失损坏，由系统核心服务缺失损坏引起的程序异常无法解决。<br>~~若想正常使用，请咨询您的OEM开发商为什么要破坏其系统的[PMS核心服务](https://developer.android.com/reference/android/content/pm/PackageManager)。~~
