@@ -35,7 +35,7 @@
 **注意：如果您觉得下述步骤麻烦，请关闭此页面忘记本仓库程序并老老实实自己打卡**
 
 1.  从[发行版页面](https://github.com/ZWolken/cjluFree/releases)中选择一个版本下载其包含的全部APK数据包。
->  注意：请勿直接从APK文件安装软件。
+>  注意：为保证文件安装正常，请勿直接从APK文件安装软件。
 2.  安装[Split APKs Installer](https://github.com/Aefyr/SAI/releases/latest)(下简称SAI)。
 3.  安装[量大自由APP](https://github.com/zxy19/cjluFree/releases/latest)。
 4.  卸载原先已安装的企业微信(Wecom)APP，若未安装本步骤跳过。
