@@ -41,7 +41,7 @@
 1.  从[发行版页面](https://github.com/ZWolken/cjluFree/releases)中选择一个~~你喜欢的~~版本，并下载其版本包含的全部APK数据（部件）包。
 >  注意：并不是版本号越新越好用，请选择合适的版本。~~Play版本比国内版本权限更加正常纯净（我反正推荐Play菜市场版本，但某些OEM系统会因Google组件的阉割出现各种问题），但是~~Play版本实施了AAB格式安装，因此存在多个分开的数据（组件）包，为保证文件安装正常，请勿直接从APK文件安装软件本体。国内版本（数据包无Play后缀且为单文件），可直接从APK文件安装软件本体，并可跳过`步骤2`、`步骤5`、`步骤6`。
 2.  安装[`Split APKs Installer`](https://github.com/Aefyr/SAI/releases/latest)(下简称`SAI`)。
-3.  安装[`量大自由`](https://github.com/zxy19/cjluFree/releases/latest)APP。
+3.  安装[`量大自由`](https://github.com/zxy19/cjluFree/releases)APP。
 4.  卸载原先已安装的`企业微信(Wecom)`APP，若未安装本步骤跳过。
 >  注意：请自行保存备份原有数据，若系统已经核心破解，可跳过本步骤直接安装 ~~（但你都核心破解了说明你已经具备了[原仓库](https://github.com/ZWolken/cjluFree)所要求的Android环境，为什么还在看这里）恼.jpg~~，但依然建议卸载APP以保证稳定。
 5.  启动`SAI`，点击主界面的`安装APK`按钮，将`步骤1`中下载的所有文件全部选中，点击`选择`按钮，待`SAI`读取完全部APK数据（组件）包后点击`安装`按钮。
