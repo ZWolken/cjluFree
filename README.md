@@ -20,8 +20,8 @@
 
 **注意：** 本仓库分支使用的是[LSPatch](https://github.com/LSPosed/LSPatch)修补APP的方式实现的，适用于不具备 Xposed / LSPosed / EdXposed / ROOT / Shizuku 环境的Android系统，因此原程序的部分修改系统的功能（如自动关闭WiFi）均无法实现。
 
-***若需其他本体与模块版本整合请[新提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)。***<br>
-***若有使用相关问题询问或BUG告知请[新提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)。***
+***若需其他本体与模块版本整合请[提交新议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)。***<br>
+***若有使用相关问题询问或BUG告知请[查看或提交议题(issue)](https://github.com/ZWolken/cjluFree/issues)。***
 
 **本程序实现了下列功能：**
 
