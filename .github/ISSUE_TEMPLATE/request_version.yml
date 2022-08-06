@@ -1,0 +1,44 @@
+name: 新LSPatch版本请求
+description: 描述需要整合的软件版本
+labels: [Version request]
+body:
+
+  - type: textarea
+    id: Wecom-version
+    attributes:
+      label: `企业微信(Wecom)`APP版本
+      placeholder: |
+        例如： v4.0.0(Play version)
+    validations:
+      required: true
+
+  - type: textarea
+    id: cjlufree-version
+    attributes:
+      label: `量大自由`APP版本
+      placeholder: |
+        例如：v1.3.1-beta.2
+        
+  - type: textarea
+    id: dowload-link
+    attributes:
+      label: 软件下载链接
+      placeholder: |
+        请提供`企业微信(Wecom)`APP的APK安装包的下载方式（各大网盘皆可）
+
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: 注意事项
+      description: 请阅读以下注意事项，否则该新LSPatch版本请求的议题(issue)将被忽略。
+      options:
+        - label: 我已知晓本程序仅供学习交流使用，严禁用于商业用途，请于24小时内删除。
+          required: true
+        - label: 我已知晓疫情防控人人有责。
+          required: true
+        - label: 我不应该使用此功能瞒报健康信息甚至归咎于本软件的使用。
+          required: true
+        - label: 我已知晓本程序随时可能在各种情况下失效。
+          required: true
+        - label: 我已填写本表格中要求的所有信息。
+          required: true
