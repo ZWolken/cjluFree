@@ -12,13 +12,13 @@
 
 **注意：** 由于项目的特殊性，本项目可能由于各种原因随时停更，请~~窒息~~悉知。如果本项目关闭，您应当立刻停止使用本软件并删除其全部副本。
 
-**注意：若您的手机系统已具备Xposed/LSPosed/EdXposed/ROOT/Shizuku环境，请使用[原仓库](https://github.com/zxy19/cjluFree)提供的方法。**
+**注意：若您的手机系统已具备 Xposed / LSPosed / EdXposed / ROOT / Shizuku 环境，请使用[原仓库](https://github.com/zxy19/cjluFree)提供的方法。**
 
 ## 关于程序权限、隐私处理、原开发者等信息请查阅[原仓库](https://github.com/zxy19/cjluFree)相关内容。
 
 ## 功能
 
-**注意：** 本仓库分支使用的是[LSPatch](https://github.com/LSPosed/LSPatch)修补APP的方式实现的，适用于不具备Xposed/LSPosed/EdXposed/ROOT/Shizuku环境的Android系统，因此原程序的部分修改系统的功能（如自动关闭WiFi）均无法实现。
+**注意：** 本仓库分支使用的是[LSPatch](https://github.com/LSPosed/LSPatch)修补APP的方式实现的，适用于不具备 Xposed / LSPosed / EdXposed / ROOT / Shizuku 环境的Android系统，因此原程序的部分修改系统的功能（如自动关闭WiFi）均无法实现。
 
 ***若需其他本体与模块版本整合请[新提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)。***<br>
 ***若有使用相关问题询问或BUG告知请[新提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)。***
@@ -34,8 +34,8 @@
 ## 使用方法
 >  系统环境要求：Android 9 ~ Android13 Beta 1
 >
->  注意：**本程序随时可能在以下OEM系统失效：<br>EMUI/HarmonyOS<br>ColorOS<br>MIUI<br>etc.**
-<br>上述系统的[PMS核心服务](https://developer.android.com/reference/android/content/pm/PackageManager)均有不同程度的缺失损坏，由系统核心服务缺失损坏引起的程序异常无法解决。<br>~~若想正常使用，请咨询您的OEM开发商为什么要破坏其系统的[PMS核心服务](https://developer.android.com/reference/android/content/pm/PackageManager)。~~
+>  注意：**本程序随时可能在包括但不局限于下方的OEM系统中失效：<br>EMUI / HarmonyOS<br>ColorOS<br>MIUI**
+<br>原因：上述系统的[PMS核心服务](https://developer.android.com/reference/android/content/pm/PackageManager)均有不同程度的缺失损坏，由系统核心服务缺失损坏引起的程序异常无法解决。<br>~~解决方法：若想正常使用，请咨询您的OEM开发商为什么要破坏其系统的[PMS核心服务](https://developer.android.com/reference/android/content/pm/PackageManager)。~~
 
 **注意：如果您觉得下述步骤麻烦，请关闭此页面忘记本仓库程序并老老实实自己打卡**
 
