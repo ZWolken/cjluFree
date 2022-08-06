@@ -1,62 +1,47 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
-assignees:
-  - octocat
+name: 新LSPatch版本请求
+description: 描述需要整合的软件版本
+title: "新LSPatch版本请求"
+labels: ["版本请求"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
+
   - type: input
-    id: contact
+    id: wecom-version
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: 企业微信(Wecom)APP版本
+      placeholder: 例如： v4.0.0(Play version)
     validations:
       required: true
-  - type: dropdown
-    id: version
+      
+  - type: input
+    id: cjlufree-version
     attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+      label: 量大自由APP版本
+      placeholder: 例如：v1.3.1-beta.2
     validations:
       required: true
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+      
   - type: textarea
-    id: logs
+    id: dowload-link
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. 这将自动格式化为代码，因此无需背板。
-      render: shell
+      label: 软件下载链接
+      placeholder: |
+        请提供企业微信(Wecom)APP的APK安装包的下载方式（各大网盘皆可）
+    validations:
+      required: true
+        
   - type: checkboxes
-    id: terms
+    id: acknowledgements
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      label: 注意事项
+      description: 请阅读以下注意事项，否则该新LSPatch版本请求的议题(issue)将被忽略。
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: 我已知晓本程序仅供学习交流使用，严禁用于商业用途，请于24小时内删除。
+          required: true
+        - label: 我已知晓疫情防控人人有责。
+          required: true
+        - label: 我不应该使用此功能瞒报健康信息甚至归咎于本软件的使用。
+          required: true
+        - label: 我已知晓本程序随时可能在各种情况下失效。
+          required: true
+        - label: 我已填写本表格中要求的所有信息。
           required: true
