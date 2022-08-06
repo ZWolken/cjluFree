@@ -36,6 +36,8 @@
 
 **注意：如果您觉得下述步骤麻烦，请关闭此页面忘记本仓库程序并老老实实自己打卡**
 
+***若需其他本体&模块版本请[新提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)告知。***
+
 1.  从[发行版页面](https://github.com/ZWolken/cjluFree/releases)中选择一个~~你喜欢的~~版本，并下载其版本包含的全部APK数据（部件）包。
 >  注意：并不是版本号越新越好用，请选择合适的版本。~~Play版本比国内版本权限更加正常纯净（我反正推荐Play菜市场版本，但某些OEM系统会因Google组件的阉割出现各种问题），但是~~Play版本实施了AAB格式安装，因此存在多个分开的数据（组件）包，为保证文件安装正常，请勿直接从APK文件安装软件本体。国内版本（数据包无Play后缀且为单文件），可直接从APK文件安装软件本体，并可跳过`步骤2`、`步骤5`、`步骤6`。
 2.  安装[`Split APKs Installer`](https://github.com/Aefyr/SAI/releases/latest)(下简称`SAI`)。
