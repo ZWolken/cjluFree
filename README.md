@@ -12,7 +12,7 @@
 
 **注意：** 由于项目的特殊性，该项目可能由于各种原因随时停更，请悉知。如果该项目关闭，您应当立刻停止使用该软件并删除其全部副本。
 
-**注意：若您的手机系统已具备Xposed/LSPosed/EdXposed/ROOT/Shizuku环境，请使用[原仓库](https://github.com/ZWolken/cjluFree)提供的方法。**
+**注意：若您的手机系统已具备Xposed/LSPosed/EdXposed/ROOT/Shizuku环境，请使用[原仓库](https://github.com/zxy19/cjluFree)提供的方法。**
 
 ## 功能
 
@@ -45,5 +45,6 @@
 6.  在弹出的软件安装界面选择安装企业微信(Wecom)APP
 7.  打开企业微信(Wecom)APP，初启动的加载进度可能会超过100%（测试中曾到达了50000%）。~~应该估计属于正常现象。~~
 8.  若成功进入登陆界面，请选择手机号登陆，由于已修改签名，其验证无法通过所以无法使用微信登陆。<br>若软甲闪退、无法成功进入界面，请前往[原仓库](https://github.com/ZWolken/cjluFree)选择其他工作方式使用本程序。~~或者关闭此页面忘记本仓库程序老老实实自己打卡。~~
+9.  后续相关功能请查阅[原仓库](https://github.com/zxy19/cjluFree)启动量大自由APP使用。
 
-## 关于程序权限、隐私处理、原开发者等信息请查阅[原仓库](https://github.com/ZWolken/cjluFree)。
+## 关于程序权限、隐私处理、原开发者等信息请查阅[原仓库](https://github.com/zxy19/cjluFree)。
