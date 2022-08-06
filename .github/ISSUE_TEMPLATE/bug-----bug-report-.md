@@ -1,6 +1,6 @@
 ---
 name: BUG错误提交(Bug report)
-about: 注意：本仓库仅为复刻，建议前往 https://github.com/zxy19/cjluFree 提交议题(issue)
+about: 注意：本仓库仅为复刻项目，建议前往 https://github.com/zxy19/cjluFree 提交议题(issue)
 title: ''
 labels: ''
 assignees: ''
