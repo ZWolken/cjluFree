@@ -1,0 +1,36 @@
+name: 问题询问 / BUG报告
+description: 建议先点击下方“BUG错误报告(Bug report)”栏内的"Open"或“打开”按钮将前往原仓库提交议题(issue)报告问题/BUG
+title: "请在此处简略地输入您的询问问题或报告BUG的标题"
+assignees:
+  - ZWolken
+body:
+
+  - type: textarea
+    id: issue-report
+    attributes:
+      label: 问题询问 / BUG报告
+      placeholder: |
+        请对您想询问的问题或BUG进行描述，该处可上传截图图片或者附件。
+    validations:
+      required: true
+        
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: 注意事项
+      description: 请阅读以下注意事项，否则该新LSPatch版本请求的议题(issue)将被忽略。
+      options:
+        - label: 我已对即将提交的议题(issue)表单选择了适当的标签(Labels)。
+          required: true
+        - label: 我已知晓本程序仅供学习交流使用，严禁用于商业用途，请于24小时内删除。
+          required: true
+        - label: 我已知晓疫情防控人人有责。
+          required: true
+        - label: 我不应该使用此功能瞒报健康信息甚至归咎于本软件的使用。
+          required: true
+        - label: 我已知晓本程序随时可能在各种情况下失效。
+          required: true
+        - label: 我已知晓该仓库所有者并不会一定答复该议题(issue)。
+          required: true
+        - label: 我已填写本表格中要求的所有信息。
+          required: true
