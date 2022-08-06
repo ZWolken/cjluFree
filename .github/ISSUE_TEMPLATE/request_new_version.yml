@@ -27,8 +27,8 @@ body:
     attributes:
       label: 软件下载链接
       placeholder: |
-        请提供`企业微信(WeCom)`本体APP的APK安装包文件（拖入即可），或者其下载方式（各大网盘皆可）。
-        可直接提供`量大自由`模块APP相应版本的GitHub发布(Release)链接。
+        请提供 企业微信(WeCom) 本体APP的APK安装包文件（拖入即可），或者其下载方式（各大网盘皆可）。
+        可直接提供 量大自由 模块APP相应版本的GitHub发布(Release)链接。
     validations:
       required: true
         
