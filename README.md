@@ -20,6 +20,9 @@
 
 **注意：** 本仓库分支使用的是[LSPatch](https://github.com/LSPosed/LSPatch)修补APP的方式实现的，适用于不具备Xposed/LSPosed/EdXposed/ROOT/Shizuku环境的Android系统，因此原程序的部分修改系统的功能（如自动关闭WiFi）均无法实现。
 
+***若需其他本体与模块版本整合请[新提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)。***<br>
+***若有使用相关问题询问或BUG告知请[新提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)。***
+
 **本程序实现了下列功能：**
 
 + 打卡界面和通行码界面一键直达。
@@ -35,9 +38,6 @@
 <br>上述系统的[PMS核心服务](https://developer.android.com/reference/android/content/pm/PackageManager)均有不同程度的缺失损坏，由系统核心服务缺失损坏引起的程序异常无法解决。<br>~~若想正常使用，请咨询您的OEM开发商为什么要破坏其系统的[PMS核心服务](https://developer.android.com/reference/android/content/pm/PackageManager)。~~
 
 **注意：如果您觉得下述步骤麻烦，请关闭此页面忘记本仓库程序并老老实实自己打卡**
-
-***若需其他本体与模块版本整合请[新提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)。***<br>
-***若有使用相关问题询问或BUG告知请[新提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)。***
 
 1.  从[发行版页面](https://github.com/ZWolken/cjluFree/releases)中选择一个~~你喜欢的~~版本，并下载其版本包含的全部APK数据（部件）包。
 >  注意：并不是版本号越新越好用，请选择合适的版本。~~Play版本比国内版本权限更加正常纯净（我反正推荐Play菜市场版本，但某些OEM系统会因Google组件的阉割出现各种问题），但是~~Play版本实施了AAB格式安装，因此存在多个分开的数据（组件）包，为保证文件安装正常，请勿直接从APK文件安装软件本体。国内版本（数据包无Play后缀且为单文件），可直接从APK文件安装软件本体，并可跳过`步骤2`、`步骤5`、`步骤6`。
