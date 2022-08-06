@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: BUG错误报告(Bug report)/功能请求(Feature request)
+  - name: BUG错误报告(Bug report) / 功能请求(Feature request)
     url: https://github.com/zxy19/cjluFree/issues
     about: 注意：本仓库仅为复刻项目，点击该栏内的"Open"或“打开”按钮将前往原仓库的议题(issue)界面。
