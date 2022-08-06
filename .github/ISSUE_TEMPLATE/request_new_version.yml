@@ -1,6 +1,6 @@
 name: 新版本请求(New version request)
 description: 描述需要整合的软件版本，请点击该栏内的"Get started"或“开始”按钮开始填写请求表单。
-title: "新版本请求"
+title: "新版本请求(New version request)"
 labels: ["版本请求"]
 assignees:
   - ZWolken
