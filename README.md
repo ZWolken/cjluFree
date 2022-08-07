@@ -18,8 +18,8 @@
 
 **注意： 若您的手机系统已具备 Xposed / LSPosed / EdXposed / ROOT / Shizuku 环境，请使用[原仓库](https://github.com/zxy19/cjluFree)提供的方法。**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ZWolken/cjluFree?style=for-the-badge)
-![GitHub all releases](https://img.shields.io/github/downloads/ZWolken/cjluFree/total?style=for-the-badge)
+[![GitHub Repo stars](https://img.shields.io/github/stars/ZWolken/cjluFree?style=for-the-badge)]()
+[![GitHub all releases](https://img.shields.io/github/downloads/ZWolken/cjluFree/total?style=for-the-badge)]()
 
 ## 功能
 
