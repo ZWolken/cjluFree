@@ -1,7 +1,7 @@
 ## 推荐版本 ~~（暂时）~~
 
 推荐使用`v1.6.3-beta.4`版本的`量大自由`模块APP。
->~~更新的`v1.9.0-beta5`版本，模板代码大更新看不懂~~<br>(2022-08-07 [@FengbaoEne](https://github.com/FengbaoEne))
+>~~更新的`v1.9.0-beta5`版本，模板代码大更新看不懂<br>(2022-08-07 [@FengbaoEne](https://github.com/FengbaoEne))~~
 
 ## 主要操作说明
 
