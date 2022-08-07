@@ -51,5 +51,5 @@
 6.  在弹出的软件安装界面选择安装`企业微信(WeCom)`本体APP。
 7.  打开`企业微信(WeCom)`本体APP，初启动的加载进度有可能会超过100%~~（测试中曾达到了50000%）~~，也有可能不会显示加载进度（国内官网版本暂未提供[AAB格式](https://developer.android.com/guide/app-bundle)安装包）。~~应该估计都属于正常现象。~~
 8.  成功进入登陆界面后，请选择手机号登陆，由于已修改APK签名，`企业微信(WeCom)`本体APP无法通过签名验证所以无法使用微信登陆。<br>若软件闪退、无法成功进入界面等现象，在重新开启或重复上述步骤依然无果后，请~~关闭此页面忘记本仓库程序老老实实自己打卡或者~~前往[原仓库](https://github.com/zxy19/cjluFree)选择其他工作方式使用本程序。
-9.  后续相关功能设置配置请查看查阅以下内容并使用：<br>- 仓库内`量大自由`模块APP的[README使用说明文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/cjluFree_plug-in/plug-in_README.md)。<br>- 您在`步骤1`[发行版页面](https://github.com/ZWolken/cjluFree/releases)所选择的版本下载页面内，描述所提供的`量大自由`模块APP的README使用说明文件。<br>- [原仓库](https://github.com/zxy19/cjluFree)的说明。
+9.  后续相关功能设置配置请查看查阅以下内容并使用：<br>- 仓库内`量大自由`模块APP的[README使用说明文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/cjluFree_plug-in/plug-in_README.md)。<br>- [原仓库](https://github.com/zxy19/cjluFree)的说明。
 >  **注意：** 程序内自动打卡脚本的默认`现在所在地（省市区）`项和`当日是否在校内`项均为**主校区非节假日情况**，若需更改，请查阅上方内容，修改自动打卡脚本模板后再使用，**由于未修改信息导致的健康信息报告错误开发者并不对其负责**。
