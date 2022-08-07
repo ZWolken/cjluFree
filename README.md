@@ -18,6 +18,9 @@
 
 **注意： 若您的手机系统已具备 Xposed / LSPosed / EdXposed / ROOT / Shizuku 环境，请使用[原仓库](https://github.com/zxy19/cjluFree)提供的方法。**
 
+![GitHub Repo stars](https://img.shields.io/github/stars/ZWolken/cjluFree?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/ZWolken/cjluFree/total?style=for-the-badge)
+
 ## 功能
 
 **注意：** 本仓库分支使用的是[LSPatch](https://github.com/LSPosed/LSPatch)修补APP的方式，适用于不具备 Xposed / LSPosed / EdXposed / ROOT / Shizuku 环境的Android系统，因此原程序的部分修改系统的功能（如自动关闭WiFi）均无法实现。
