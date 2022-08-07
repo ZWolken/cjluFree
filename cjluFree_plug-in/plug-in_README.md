@@ -3,3 +3,5 @@
 `量大自由`模块APP内的使用操作：
  - 点击主页面内的`打卡`会自动唤起~~魔改后的~~`企业微信`并打开打卡页面自动填充打卡与提交。
  - 点击主页面内的`通行码`会自动唤起个性化设置过后的量大通行码。
+
+1.  `v1.6.3-beta.4`版本的详细说明：[README_v1.6.3-beta.4.md](https://github.com/ZWolken/cjluFree/blob/LSPatch/cjluFree_plug-in/plug-in_README_v1.6.3-beta.4.md)
