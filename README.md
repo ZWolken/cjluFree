@@ -43,6 +43,7 @@
 >  **注意：并不是版本号越新越好用，请选择合适的版本。**~~Play版本比国内版本权限更加正常纯净（我反正推荐Play菜市场版本，但某些OEM系统会因Google组件的阉割出现各种问题），但是~~Play版本实施了[AAB格式](https://developer.android.com/guide/app-bundle)安装包，因此存在多个分开的数据（组件）包，为保证文件安装正常，请勿直接从APK文件安装软件本体。国内版本（数据包无Play后缀且为单文件），可直接从APK文件安装软件本体，并可跳过`步骤2`、`步骤5`、`步骤6`。
 
 >  关于不同`量大自由`模块APP的版本区别请前往[原仓库发行版页面](https://github.com/zxy19/cjluFree/releases)查看。
+
 2.  安装[`Split APKs Installer`](https://github.com/Aefyr/SAI/releases/latest)(下简称`SAI`)。
 3.  安装与您从`步骤1`中下载的APK数据（部件）包**相匹配**的`量大自由`模块APP，相匹配版本的`量大自由`模块APP在`步骤1`[发行版页面](https://github.com/ZWolken/cjluFree/releases)所选择的版本下载页面描述内提供了下载链接地址。
 >  注意：已Patch的APK数据（部件）包内包含有与其对应版本的`量大自由`模块APP的组件，若安装不相匹配版本的`量大自由`模块APP，导致所出现的**功能错误、失效**，**开发者并不对其负责**。
