@@ -1,8 +1,8 @@
 ---
 layout: default
 title: v1.9.0-beta.5
-parent: 模块详细操作及设置说明
-nav_order: 3
+parent: 量大自由 模块APP 详细操作及设置说明
+nav_order: 2
 ---
 
 > 注意：下方的详细说明最佳适用于`v1.9.0-beta.5`版本的`量大自由`模块APP。<br>未说明的功能请保持默认或自行探索。
