@@ -20,6 +20,22 @@ nav_order: 1
 
 **注意：** 由于项目的特殊性，本项目可能由于各种原因随时停更，请~~窒息~~知悉。如果本项目关闭，您应当立刻停止使用本软件并删除其全部副本。
 
+<button class="btn js-toggle-dark-mode">亮暗显示模式切换</button>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'dark') {
+    jtd.setTheme('light');
+    toggleDarkMode.textContent = 'Preview dark color scheme';
+  } else {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = 'Return to the light side';
+  }
+});
+</script>
+
 ## 关于程序权限、隐私处理、原开发者等信息请查阅[原仓库](https://github.com/zxy19/cjluFree)相关内容。
 
 **注意：** 本程序提供了一种注入企业微信的方式，此方式随时可能失效或引起其他不可预期的问题，开发者并不对其负责。
