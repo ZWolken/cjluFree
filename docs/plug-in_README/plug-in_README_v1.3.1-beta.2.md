@@ -26,5 +26,5 @@ nav_order: 1
       >  若该选项开启后须打开通行码，请使用[应用快捷方式(Shortcuts)](https://developer.android.com/guide/topics/ui/shortcuts)，应用快捷方式(Shortcuts)的说明请查阅 [README文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/cjluFree_plug-in/plug-in_README.md#%E4%B8%BB%E8%A6%81%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E) 或 [网页(Web)端](https://zwolken.github.io/cjluFree/cjluFree_plug-in/plug-in_README.html#%E4%B8%BB%E8%A6%81%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E) “主要操作说明”部分。
 
   4. `通行码设置`项目：
-    <br>i. 如需修改通行码个性化图案请打开`通行码设置`下的`注入自动化脚本`选项，有关通行码自定义图片~~DLC内容~~请自行摸索。
+    <br> 如需修改通行码个性化图案请打开`通行码设置`下的`注入自动化脚本`选项，有关通行码自定义图片~~DLC内容~~请自行摸索。
      > 注：①已知`卡片底图`会无条件拉伸已加入的图片，请自行裁剪图片为20:9以免图片拉伸~~导致老婆变形~~；<br>②添加图片大小均不建议超过1MB，实测2MB的图片添加进去后会导致个性化失效。
