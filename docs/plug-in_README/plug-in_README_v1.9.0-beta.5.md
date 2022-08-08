@@ -17,7 +17,7 @@ nav_order: 2
 
     2.  `自动更新脚本`选项的功能由[原仓库](https://github.com/zxy19/cjluFree)提供支持，相关疑问/BUG请前往[原仓库提交议题(issue)](https://github.com/zxy19/cjluFree/issues)。
 
-3.  ”打卡设置“项目：
+3.  “打卡设置”项目：
 
     1.  按照界面指示说明确认各个项目的设置配置状态。
 
@@ -33,7 +33,7 @@ nav_order: 2
 
         >  若该选项开启后须打开通行码，请使用[应用快捷方式(Shortcuts)](https://developer.android.com/guide/topics/ui/shortcuts)，应用快捷方式(Shortcuts)的说明请查阅 [README文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/cjluFree_plug-in/plug-in_README.md#%E4%B8%BB%E8%A6%81%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E) 或 [网页(Web)端](https://zwolken.github.io/cjluFree/cjluFree_plug-in/plug-in_README.html#%E4%B8%BB%E8%A6%81%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E) “主要操作说明”部分。
 
-4.  ”通行码设置“项目：
+4.  “通行码设置”项目：
 
     1.  推荐开启`自动高亮度（优化扫描）`选项。
 
