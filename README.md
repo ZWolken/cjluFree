@@ -8,7 +8,7 @@
 
 > 本仓库复刻自 [zxy19/cjluFree](https://github.com/zxy19/cjluFree)
 
-> 网页(Web)界面：https://zwolken.github.io/cjluFree/
+> GitHub仓库地址：https://github.com/ZWolken/cjluFree<br>网页(Web)界面：https://zwolken.github.io/cjluFree/
 
 > 中国计量大学疫情防控功能快捷导航软件。实现打卡和通行码自由！
 

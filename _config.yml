@@ -1,6 +1,12 @@
 remote_theme: just-the-docs/just-the-docs
 
-search_enabled: false
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/cjluFree_logo_v1.9.0-beta.5.png"
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
 
 # Aux links for the upper right navigation
 aux_links:
