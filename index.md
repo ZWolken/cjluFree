@@ -4,9 +4,9 @@ title: 量大自由 - 疫情防控页面快捷方式自动化程序
 nav_order: 1
 ---
 
-# [LSPatch]量大自由
+# 量大自由
 
-## 量大自由 - 疫情防控页面快捷方式自动化程序
+## [LSPatch]疫情防控页面快捷方式自动化程序
 
 **注意：本程序仅供学习交流使用，请勿于微博、贴吧、钉钉、计量小梦等GFW内的公众平台上分享，严禁用于商业用途，请在下载后24小时内删除。**<br>
 本程序中包含了自动完成打卡的相关功能，用意是减少重复劳动，提高效率。<br>
@@ -84,7 +84,7 @@ nav_order: 1
 
 8.  成功进入登陆界面后，请选择手机号登陆，由于已修改APK签名，`企业微信(WeCom)`本体APP无法通过签名验证所以无法使用微信登陆。<br>若软件闪退、无法成功进入界面等现象，在重新开启或重复上述步骤依然无果后，请~~关闭此页面忘记本仓库程序老老实实自己打卡或者~~前往[原仓库](https://github.com/zxy19/cjluFree)选择其他工作方式使用本程序。
 
-9.  后续相关功能设置配置请查看查阅以下内容并使用：<br>- [`量大自由`模块APP使用操作说明](https://zwolken.github.io/cjluFree/cjluFree_plug-in/plug-in_README.html)<br>- 仓库内`量大自由`模块APP的[README使用说明文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/cjluFree_plug-in/plug-in_README.md)。<br>- [原仓库](https://github.com/zxy19/cjluFree)的说明。
+9.  后续相关功能设置配置请查看查阅以下内容并使用：<br>- [`量大自由`模块APP使用操作说明](https://zwolken.github.io/cjluFree/docs/plug-in_README/)<br>- [原仓库](https://github.com/zxy19/cjluFree)的说明。
 
     >  首次使用前建议进入`打开设置（使用前请先配置）`部署设置。
 

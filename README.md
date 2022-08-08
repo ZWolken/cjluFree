@@ -9,7 +9,7 @@
 > 本仓库复刻自 [zxy19/cjluFree](https://github.com/zxy19/cjluFree)
 
 > GitHub仓库地址：[https://github.com/ZWolken/cjluFree](https://github.com/ZWolken/cjluFree)<br>网页(Web)界面：[https://zwolken.github.io/cjluFree/](https://zwolken.github.io/cjluFree/)
-s
+
 > 中国计量大学疫情防控功能快捷导航软件。实现打卡和通行码自由！
 
 **注意：** 由于项目的特殊性，本项目可能由于各种原因随时停更，请~~窒息~~知悉。如果本项目关闭，您应当立刻停止使用本软件并删除其全部副本。
@@ -78,7 +78,7 @@ s
 
 8.  成功进入登陆界面后，请选择手机号登陆，由于已修改APK签名，`企业微信(WeCom)`本体APP无法通过签名验证所以无法使用微信登陆。<br>若软件闪退、无法成功进入界面等现象，在重新开启或重复上述步骤依然无果后，请~~关闭此页面忘记本仓库程序老老实实自己打卡或者~~前往[原仓库](https://github.com/zxy19/cjluFree)选择其他工作方式使用本程序。
 
-9.  后续相关功能设置配置请查看查阅以下内容并使用：<br>- [`量大自由`模块APP使用操作说明](https://zwolken.github.io/cjluFree/cjluFree_plug-in/plug-in_README.html)<br>- 仓库内`量大自由`模块APP的[README使用说明文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/cjluFree_plug-in/plug-in_README.md)。<br>- [原仓库](https://github.com/zxy19/cjluFree)的说明。
+9.  后续相关功能设置配置请查看查阅以下内容并使用：<br>- [`量大自由`模块APP使用操作说明](https://zwolken.github.io/cjluFree/docs/plug-in_README/)<br>- 仓库内`量大自由`模块APP的[使用说明文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/docs/plug-in_README/index.md)。<br>- [原仓库](https://github.com/zxy19/cjluFree)的说明。
 
     >  首次使用前建议进入`打开设置（使用前请先配置）`部署设置。
 

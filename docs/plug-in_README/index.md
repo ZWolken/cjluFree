@@ -37,8 +37,8 @@ has_children: true
 
 >  下方未列出的版本的详细操作及设置请参考：<br>- 其他版本的详细说明。<br>- [原仓库](https://github.com/zxy19/cjluFree)的说明。<br>- 自行探索。
 
-1.  `v1.3.1-beta.2`版本的详细说明 ([@FengbaoEne](https://github.com/FengbaoEne))：[README_v1.3.1-beta.2.md](https://github.com/ZWolken/cjluFree/blob/LSPatch/cjluFree_plug-in/plug-in_README_v1.3.1-beta.2.md)
+1.  `v1.3.1-beta.2`版本的详细说明 ([@FengbaoEne](https://github.com/FengbaoEne))：[v1.3.1-beta.2](https://zwolken.github.io/cjluFree/docs/plug-in_README/plug-in_README_v1.3.1-beta.2.html)
 
     >  **注意：** `v1.3.1-beta.2`版本程序内自动打卡脚本的默认`现在所在地（省市区）`项和`当日是否在校内`项均为**主校区非节假日情况**，若需更改，请查阅上方内容，修改自动打卡脚本模板后再使用，**由于未修改信息导致的健康信息报告错误开发者并不对其负责**。
 
-2.  `v1.9.0-beta.5`版本的详细说明 ([@Wolken](https://github.com/ZWolken))：[README_v1.9.0-beta.5.md](https://github.com/ZWolken/cjluFree/blob/LSPatch/cjluFree_plug-in/plug-in_README_v1.9.0-beta.5.md)
+2.  `v1.9.0-beta.5`版本的详细说明 ([@Wolken](https://github.com/ZWolken))：[v1.9.0-beta.5](https://zwolken.github.io/cjluFree/docs/plug-in_README/plug-in_README_v1.9.0-beta.5.html)

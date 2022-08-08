@@ -31,7 +31,7 @@ nav_order: 2
 
         > [应用快捷方式(Shortcuts)](https://developer.android.com/guide/topics/ui/shortcuts)可在[启动器(Laucher)](https://android.fandom.com/wiki/Launchers)上创建快捷方式，企业微信(WeCom)除了健康打卡及通行码外还有其他功能需要使用，**本仓库持有者并不推荐此功能**，此功能会引起诸多不便。
 
-        >  若该选项开启后须打开通行码，请使用[应用快捷方式(Shortcuts)](https://developer.android.com/guide/topics/ui/shortcuts)，应用快捷方式(Shortcuts)的说明请查阅 [README文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/cjluFree_plug-in/plug-in_README.md#%E4%B8%BB%E8%A6%81%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E) 或 [网页(Web)端](https://zwolken.github.io/cjluFree/cjluFree_plug-in/plug-in_README.html#%E4%B8%BB%E8%A6%81%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E) “主要操作说明”部分。
+        >  若该选项开启后须打开通行码，请使用[应用快捷方式(Shortcuts)](https://developer.android.com/guide/topics/ui/shortcuts)，应用快捷方式(Shortcuts)的说明请查阅 [README文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/docs/plug-in_README/index.md#%E4%B8%BB%E8%A6%81%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E) 或 [网页(Web)端](https://zwolken.github.io/cjluFree/docs/plug-in_README/#%E4%B8%BB%E8%A6%81%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E) “主要操作说明”部分。
 
 4.  “通行码设置”项目：
 
@@ -39,4 +39,4 @@ nav_order: 2
 
     2.  `使用内置文件缓存加载`选项开启后，量大通行码将由企业微信本地信息生成。~~量大通行码的加载将不受网络影响。~~ 开启该选项后可在量大通行码展示界面最下方点击`禁用快速模式`加载正常界面的量大通行码。
 
-    3.  有关量大通行码个性化设置的相关说明请查阅[`v1.3.1-beta.2`版本的详细说明文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/cjluFree_plug-in/plug-in_README_v1.3.1-beta.2.md)。
+    3.  有关量大通行码个性化设置的相关说明请查阅 [`v1.3.1-beta.2`版本的详细说明](https://zwolken.github.io/cjluFree/docs/plug-in_README/plug-in_README_v1.3.1-beta.2.html) 或 [README文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/docs/plug-in_README/plug-in_README_v1.3.1-beta.2.md)。
