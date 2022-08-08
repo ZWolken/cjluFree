@@ -1,1 +1,11 @@
 remote_theme: just-the-docs/just-the-docs
+
+search_enabled: false
+
+# Aux links for the upper right navigation
+aux_links:
+  "量大自由 on GitHub":
+    - "//github.com/ZWolken/cjluFree"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
