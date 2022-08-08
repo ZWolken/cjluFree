@@ -8,6 +8,8 @@
 
 > 本仓库复刻自 [zxy19/cjluFree](https://github.com/zxy19/cjluFree)
 
+> 网页(Web)界面：https://zwolken.github.io/cjluFree/
+
 > 中国计量大学疫情防控功能快捷导航软件。实现打卡和通行码自由！
 
 **注意：** 由于项目的特殊性，本项目可能由于各种原因随时停更，请~~窒息~~知悉。如果本项目关闭，您应当立刻停止使用本软件并删除其全部副本。
@@ -32,9 +34,12 @@
 
 + 打卡界面和通行码界面一键直达。
 
++ 打卡提醒桌面小部件。（需`v1.9.0-beta.5`及以上版本的`量大自由`模块APP安装支持）
+
 + 自动填写并提交打卡表单。
 
 + 优化通行码布局并添加背景等。
+
 
 ## 使用方法
 
@@ -47,9 +52,11 @@
 
 1.  从[发行版页面](https://github.com/ZWolken/cjluFree/releases)中选择一个~~你喜欢的~~**合适的**已Patch的版本，并下载其版本包含的全部APK数据（部件）包。
 
-    >  **注意：并不是版本号越新越好用，请选择合适的版本。**~~Play版本比国内版本权限更加正常纯净（我反正推荐Play菜市场版本，但某些OEM系统会因Google组件的阉割出现各种问题），但是~~Play版本实施了[AAB格式](https://developer.android.com/guide/app-bundle)安装包，因此存在多个分开的数据（组件）包，为保证文件安装正常，请勿直接从APK文件安装软件本体。国内版本（数据包无Play后缀且为单文件），可直接从APK文件安装软件本体，并可跳过`步骤2`、`步骤5`、`步骤6`。
+    >  **注意：版本号越新并不代表越好用，请选择合适的版本。** 建议自行查阅的更新说明或试用各版本后，选择一个稳定合适的版本使用，并不推荐频繁更新`量大自由`模块APP。
 
     >  关于不同`量大自由`模块APP的版本区别请前往[原仓库发行版页面](https://github.com/zxy19/cjluFree/releases)查看。
+
+    >  注意：<br>~~Play版本比国内版本权限更加正常纯净（我反正推荐Play菜市场版本，但某些OEM系统会因Google组件的阉割出现各种问题），但是~~Play版本实施了[AAB格式](https://developer.android.com/guide/app-bundle)安装包，因此存在多个分开的数据（组件）包，为保证文件安装正常，**请勿直接从APK文件安装软件本体**。<br>国内版本（数据包无Play后缀且为单文件），可直接从APK文件安装软件本体，并可跳过`步骤2`、`步骤5`、`步骤6`。
 
 2.  安装[`Split APKs Installer`](https://github.com/Aefyr/SAI/releases/latest)(下简称`SAI`)。
 
@@ -71,6 +78,8 @@
 
 8.  成功进入登陆界面后，请选择手机号登陆，由于已修改APK签名，`企业微信(WeCom)`本体APP无法通过签名验证所以无法使用微信登陆。<br>若软件闪退、无法成功进入界面等现象，在重新开启或重复上述步骤依然无果后，请~~关闭此页面忘记本仓库程序老老实实自己打卡或者~~前往[原仓库](https://github.com/zxy19/cjluFree)选择其他工作方式使用本程序。
 
-9.  后续相关功能设置配置请查看查阅以下内容并使用：<br>- 仓库内`量大自由`模块APP的[README使用说明文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/cjluFree_plug-in/plug-in_README.md)。<br>- [原仓库](https://github.com/zxy19/cjluFree)的说明。
+9.  后续相关功能设置配置请查看查阅以下内容并使用：<br>- [`量大自由`模块APP使用操作说明](https://zwolken.github.io/cjluFree/cjluFree_plug-in/plug-in_README.html)<br>- 仓库内`量大自由`模块APP的[README使用说明文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/cjluFree_plug-in/plug-in_README.md)。<br>- [原仓库](https://github.com/zxy19/cjluFree)的说明。
+
+    >  首次使用前建议进入`打开设置（使用前请先配置）`部署设置。
 
     >  **注意：** 请自行确认程序内自动打卡脚本的`现在所在地（省市区）`项和`当日是否在校内`项设置情况，若需更改，请查阅上方内容，修改自动打卡脚本设置及脚本模板后再使用，**由于未修改信息导致的健康信息报告错误开发者并不对其负责**。
