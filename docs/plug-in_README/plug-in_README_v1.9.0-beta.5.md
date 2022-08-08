@@ -1,7 +1,7 @@
 ---
 layout: default
 title: v1.9.0-beta.5
-parent: 量大自由 模块APP 详细操作及设置说明
+parent: 量大自由 模块APP 使用操作说明
 nav_order: 2
 ---
 

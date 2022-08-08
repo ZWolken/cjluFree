@@ -2,6 +2,7 @@
 layout: default
 title: 量大自由 模块APP 使用操作说明
 nav_order: 2
+has_children: true
 ---
 
 # `量大自由`模块APP使用操作说明
