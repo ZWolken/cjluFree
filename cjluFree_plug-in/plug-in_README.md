@@ -27,3 +27,5 @@
 1.  `v1.3.1-beta.2`版本的详细说明：[README_v1.3.1-beta.2.md](https://github.com/ZWolken/cjluFree/blob/LSPatch/cjluFree_plug-in/plug-in_README_v1.3.1-beta.2.md)
 
 >  **注意：** `v1.3.1-beta.2`版本程序内自动打卡脚本的默认`现在所在地（省市区）`项和`当日是否在校内`项均为**主校区非节假日情况**，若需更改，请查阅上方内容，修改自动打卡脚本模板后再使用，**由于未修改信息导致的健康信息报告错误开发者并不对其负责**。
+
+>  未列出的版本的详细操作及设置请参考：<br>- 其他版本的详细说明。<br>- [原仓库](https://github.com/zxy19/cjluFree)的说明。<br>- 自行探索。
