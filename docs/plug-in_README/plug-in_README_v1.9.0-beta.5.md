@@ -7,7 +7,7 @@ nav_order: 2
 
 > 注意：下方的详细说明最佳适用于`v1.9.0-beta.5`版本的`量大自由`模块APP。<br>未说明的功能请保持默认或自行探索。
 
-0.  首次使用前请按照模块APP指示点击`关闭X5内核`关闭企业微信(WeCom)的浏览器X5内核，并**强烈建议**进入`打开设置（使用前请先配置）`部署设置。
+0.  首次使用前请按照模块APP指示点击`关闭X5内核`关闭`企业微信(WeCom)`本体APP的浏览器X5内核，并**强烈建议**进入`打开设置（使用前请先配置）`部署设置。
 
 1.  点击`打开设置（使用前请先配置）`进入模块设置。
 
@@ -29,7 +29,7 @@ nav_order: 2
 
     4.  `启动时打开打卡页（全自动）`选项开启后打开`企业微信(WeCom)`本体APP将自动跳转健康打卡界面并运行自动打卡程序，打卡完成后`企业微信(WeCom)`本体APP将自动退出。
 
-        > [应用快捷方式(Shortcuts)](https://developer.android.com/guide/topics/ui/shortcuts)可在[启动器(Laucher)](https://android.fandom.com/wiki/Launchers)上创建快捷方式，企业微信(WeCom)除了健康打卡及通行码外还有其他功能需要使用，**本仓库持有者并不推荐此功能**，此功能会引起诸多不便。
+        > [应用快捷方式(Shortcuts)](https://developer.android.com/guide/topics/ui/shortcuts)可在[启动器(Laucher)](https://android.fandom.com/wiki/Launchers)上创建快捷方式，`企业微信(WeCom)`本体APP除了健康打卡及通行码外还有其他功能需要使用，**本仓库持有者并不推荐此功能**，此功能会引起诸多不便。
 
         >  若该选项开启后须打开通行码，请使用[应用快捷方式(Shortcuts)](https://developer.android.com/guide/topics/ui/shortcuts)，应用快捷方式(Shortcuts)的说明请查阅 [README文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/docs/plug-in_README/index.md#%E4%B8%BB%E8%A6%81%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E) 或 [网页(Web)端](https://zwolken.github.io/cjluFree/docs/plug-in_README/#%E4%B8%BB%E8%A6%81%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E) “主要操作说明”部分。
 
