@@ -27,11 +27,11 @@ const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
 
 jtd.addEvent(toggleDarkMode, 'click', function(){
   if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    toggleDarkMode.textContent = '切换为黑暗模式';
+    jtd.setTheme('nopurple');
+    toggleDarkMode.textContent = '亮暗显示模式切换';
   } else {
     jtd.setTheme('dark');
-    toggleDarkMode.textContent = '切换为明亮模式';
+    toggleDarkMode.textContent = '亮暗显示模式切换';
   }
 });
 </script>
