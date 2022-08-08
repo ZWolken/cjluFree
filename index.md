@@ -28,7 +28,6 @@ const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
 jtd.addEvent(toggleDarkMode, 'click', function(){
   if (jtd.getTheme() === 'dark') {
     jtd.setTheme('light');
-    jtd.setTheme('nopurple');
     toggleDarkMode.textContent = '亮暗显示模式切换';
   } else {
     jtd.setTheme('dark');
