@@ -13,7 +13,7 @@ nav_order: 2
 
 2.  “通用设置”项目：
 
-    1.  `自动关闭WiFi`选项的功能在本仓库分支内均无效。原因可查看：[README文件](https://github.com/ZWolken/cjluFree#%E5%8A%9F%E8%83%BD)或[网页(Web)端](https://zwolken.github.io/cjluFree/#%E5%8A%9F%E8%83%BD)“功能”部分的注意说明。
+    1.  `自动关闭WiFi`选项的功能在本仓库分支内均无效。原因可查看：[“功能”部分的注意说明](https://zwolken.github.io/cjluFree/#%E5%8A%9F%E8%83%BD) 或 [README文件](https://github.com/ZWolken/cjluFree#%E5%8A%9F%E8%83%BD)。
 
     2.  `自动更新脚本`选项的功能由[原仓库](https://github.com/zxy19/cjluFree)提供支持，相关疑问/BUG请前往[原仓库提交议题(issue)](https://github.com/zxy19/cjluFree/issues)。
 
@@ -31,7 +31,7 @@ nav_order: 2
 
         > [应用快捷方式(Shortcuts)](https://developer.android.com/guide/topics/ui/shortcuts)可在[启动器(Laucher)](https://android.fandom.com/wiki/Launchers)上创建快捷方式，`企业微信(WeCom)`本体APP除了健康打卡及通行码外还有其他功能需要使用，**本仓库持有者并不推荐此功能**，此功能会引起诸多不便。
 
-        >  若该选项开启后须打开通行码，请使用[应用快捷方式(Shortcuts)](https://developer.android.com/guide/topics/ui/shortcuts)，应用快捷方式(Shortcuts)的说明请查阅 [README文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/docs/plug-in_README/index.md#%E4%B8%BB%E8%A6%81%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E) 或 [网页(Web)端](https://zwolken.github.io/cjluFree/docs/plug-in_README/#%E4%B8%BB%E8%A6%81%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E) “主要操作说明”部分。
+        >  若该选项开启后若须打开通行码，请使用[应用快捷方式(Shortcuts)](https://developer.android.com/guide/topics/ui/shortcuts)，应用快捷方式(Shortcuts)的说明请查阅 [使用操作说明 “主要操作说明”部分](https://zwolken.github.io/cjluFree/docs/plug-in_README/#%E4%B8%BB%E8%A6%81%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E) 或 [README文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/cjluFree_plug-in/plug-in_README.md#%E4%B8%BB%E8%A6%81%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E)。
 
 4.  “通行码设置”项目：
 
