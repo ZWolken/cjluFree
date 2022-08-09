@@ -20,7 +20,7 @@ nav_order: 1
 
 **注意：** 由于项目的特殊性，本项目可能由于各种原因随时停更，请~~窒息~~知悉。如果本项目关闭，您应当立刻停止使用本软件并删除其全部副本。
 
-<button class="btn js-toggle-dark-mode">亮暗显示模式切换</button>
+<button class="btn js-toggle-dark-mode">切换为黑暗模式</button>
 
 <script>
 const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
@@ -28,10 +28,10 @@ const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
 jtd.addEvent(toggleDarkMode, 'click', function(){
   if (jtd.getTheme() === 'dark') {
     jtd.setTheme('light');
-    toggleDarkMode.textContent = '亮暗显示模式切换';
+    toggleDarkMode.textContent = '切换为黑暗模式';
   } else {
     jtd.setTheme('dark');
-    toggleDarkMode.textContent = '亮暗显示模式切换';
+    toggleDarkMode.textContent = '切换为明亮模式';
   }
 });
 </script>
