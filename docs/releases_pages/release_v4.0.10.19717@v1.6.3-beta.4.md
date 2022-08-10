@@ -1,11 +1,12 @@
 ---
 layout: default
 title: v4.0.10.19717@v1.6.3-beta.4
-parent: 发行版下载
+parent: 发行版 下载
 nav_order: 3
 ---
 
 # [LSPatch]WeCom v4.0.10.19717 with cjluFree v1.6.3-beta.4(Alpha 1.6.2)
+
 | APP | 版本 |
 | :---: | :---: |
 | `企业微信(WeCom)`本体 | `v4.0.10.19717` |
@@ -17,11 +18,11 @@ nav_order: 3
 | ---: | :--- |
 | GitHub下载直链 | [地址](https://github.com/zxy19/cjluFree/releases/download/v1.6.3-beta.4/B163.apk) |
 | 加速源下载 | [美国1](https://gh.gh2233.ml/https://github.com/zxy19/cjluFree/releases/download/v1.6.3-beta.4/B163.apk) |
-||[美国2](https://gh2.yanqishui.work/https://github.com/zxy19/cjluFree/releases/download/v1.6.3-beta.4/B163.apk) |
-||[美国3](https://ghdl.z-o.top/https://github.com/zxy19/cjluFree/releases/download/v1.6.3-beta.4/B163.apk) |
-||[美国4](https://gh.ddlc.top/https://github.com/zxy19/cjluFree/releases/download/v1.6.3-beta.4/B163.apk) |
-||[美国5](https://gh-proxy-misakano7545.koyeb.app/https://github.com/zxy19/cjluFree/releases/download/v1.6.3-beta.4/B163.apk)
-||[韩国](https://ghproxy.com/https://github.com/zxy19/cjluFree/releases/download/v1.6.3-beta.4/B163.apk) |
+|  |[美国2](https://gh2.yanqishui.work/https://github.com/zxy19/cjluFree/releases/download/v1.6.3-beta.4/B163.apk) |
+|  |[美国3](https://ghdl.z-o.top/https://github.com/zxy19/cjluFree/releases/download/v1.6.3-beta.4/B163.apk) |
+|  |[美国4](https://gh.ddlc.top/https://github.com/zxy19/cjluFree/releases/download/v1.6.3-beta.4/B163.apk) |
+|  |[美国5](https://gh-proxy-misakano7545.koyeb.app/https://github.com/zxy19/cjluFree/releases/download/v1.6.3-beta.4/B163.apk)
+|  |[韩国](https://ghproxy.com/https://github.com/zxy19/cjluFree/releases/download/v1.6.3-beta.4/B163.apk) |
 
 > 注意：加速源随时可能失效，可[提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)至“加速源失效报告”项告知。
 
@@ -29,7 +30,7 @@ nav_order: 3
 
 仓库发行版Release地址：[https://github.com/ZWolken/cjluFree/releases/tag/v4.0.10.19717@v1.6.3-beta.4](https://github.com/ZWolken/cjluFree/releases/tag/v4.0.10.19717%40v1.6.3-beta.4)
 
-共1个APK数据包，请下载后按照 [使用方法](https://zwolken.github.io/cjluFree/#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95) 或 [仓库内README文件](https://github.com/ZWolken/cjluFree#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95) 的描述进行安装。
+共1个APK数据包，请下载后按照 [使用方法](https://zwolken.github.io/cjluFree/#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95) 的描述进行安装。
 
 | 文件名 | GitHub下载直链 | 美国1 | 美国2 | 美国3 | 美国4  | 美国5 | 韩国 |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

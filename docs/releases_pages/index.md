@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 发行版下载
+title: 发行版 下载
 nav_order: 3
 has_children: true
 has_toc: false
