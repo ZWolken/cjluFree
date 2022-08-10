@@ -14,7 +14,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: error-proxy-url
     attributes:
       label: 发现失效加速源的下载页面地址
