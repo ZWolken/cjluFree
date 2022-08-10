@@ -14,6 +14,7 @@ nav_order: 3
 | 原仓库`量大自由`模块 | [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/zxy19/cjluFree?include_prereleases&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=flat-square)](https://github.com/zxy19/cjluFree/releases) |
 
 `量大自由`模块APP`v1.6.3-beta.4(Alpha 1.6.2)` 下载：
+
 | 仓库发行版(Release)地址 | [网页链接](https://github.com/zxy19/cjluFree/releases/tag/v1.6.3-beta.4) |
 | ---: | :--- |
 | GitHub直链 | [下载链接](https://github.com/zxy19/cjluFree/releases/download/v1.6.3-beta.4/B163.apk) |
