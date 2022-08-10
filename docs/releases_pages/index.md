@@ -29,3 +29,5 @@ has_toc: false
 | `v4.0.10.19717` | `v1.6.3-beta.4(Alpha 1.6.2)` | [下载地址](https://zwolken.github.io/cjluFree/docs/releases_pages/release_v4.0.10.19717@v1.6.3-beta.4.html) |
 | `v4.0.0(Play version)` | `v1.6.3-beta.4(Alpha 1.6.2)` | [下载地址](https://zwolken.github.io/cjluFree/docs/releases_pages/release_v4.0.0_Play@v1.6.3-beta.4.html) |
 | `v4.0.10.19717` | `v1.9.0-beta.5(Alpha 1.9.0)` | [下载地址](https://zwolken.github.io/cjluFree/docs/releases_pages/release_v4.0.10.19717@v1.9.0-beta.5.html) |
+
+*若需其他本体&模块版本请[新提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)并选择“新版本请求(New version request)”项告知。*
