@@ -8,14 +8,6 @@ has_toc: false
 
 # `量大自由`模块APP使用操作说明
 
-## 推荐版本 ~~（暂时）~~
-
-推荐使用`v1.3.1-beta.2`版本的`量大自由`模块APP。(2022-08-07 [@FengbaoEne](https://github.com/FengbaoEne))
-
-> ~~更新的`v1.9.0-beta5`版本，模板代码改动过大 看不懂<br>(2022-08-07 [@FengbaoEne](https://github.com/FengbaoEne))~~
-
-> 建议自行查阅的更新说明或试用各版本后，选择一个稳定合适的版本使用，并不推荐频繁更新模块APP。<br>([@Wolken](https://github.com/ZWolken))
-
 ## 主要操作说明
 
 `量大自由`模块APP内的使用操作：

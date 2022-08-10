@@ -1,0 +1,44 @@
+name: 加速源失效报告
+description: （此ISSUE仅面向网页访问者）若存在加速源失效，请点击该栏内的"Get started"或“开始”按钮并按描述报告失效加速源。
+title: "加速源失效"
+labels: ["加速源失效"]
+assignees:
+  - ZWolken
+body:
+
+  - type: input
+    id: error-proxy-id
+    attributes:
+      label: 失效加速源地址
+      placeholder: 例如： 美国3
+    validations:
+      required: true
+
+  - type: input
+    id: error-proxy-url
+    attributes:
+      label: 发现失效加速源的下载页面地址
+      placeholder: 请输入网页地址 或 下载网页显示的`企业微信(WeCom)`本体及`量大自由`模块的版本。
+    validations:
+      required: true
+        
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: 注意事项
+      description: 请阅读以下注意事项，否则该议题(issue)将被忽略。
+      options:
+        - label: 我已知晓本程序仅供学习交流使用，严禁用于商业用途，请于24小时内删除。
+          required: true
+        - label: 我不会于微博、贴吧、钉钉、计量小梦等GFW内的公众平台上分享该仓库及程序内容。
+          required: true
+        - label: 我已知晓疫情防控人人有责。
+          required: true
+        - label: 我不应该使用此功能瞒报健康信息甚至归咎于本软件的使用。
+          required: true
+        - label: 我已知晓本程序随时可能在各种情况下失效。
+          required: true
+        - label: 我已知晓该仓库所有者并不会一定答复该议题(issue)。
+          required: true
+        - label: 我已填写本表格中要求的所有信息。
+          required: true

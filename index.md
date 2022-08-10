@@ -36,6 +36,10 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
+## 视频演示：
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1hv4y1F7UF&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ## 关于程序权限、隐私处理、原开发者等信息请查阅[原仓库](https://github.com/zxy19/cjluFree)相关内容。
 
 **注意：** 本程序提供了一种注入企业微信的方式，此方式随时可能失效或引起其他不可预期的问题，开发者并不对其负责。
@@ -72,7 +76,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 **注意：如果您觉得下述步骤麻烦，请关闭此页面忘记本仓库程序并老老实实自己打卡**
 
-1.  从[发行版页面](https://github.com/ZWolken/cjluFree/releases)中选择一个~~你喜欢的~~**合适的**已Patch的版本，并下载其版本包含的全部APK数据（部件）包。
+1.  从 [发行版下载页面](https://zwolken.github.io/cjluFree/docs/releases_pages/) 中选择一个~~你喜欢的~~**合适的**已Patch的版本，并下载其版本包含的全部APK数据（部件）包。
 
     >  **注意：版本号越新并不代表越好用，请选择合适的版本。** 建议自行查阅的更新说明或试用各版本后，选择一个稳定合适的版本使用，并不推荐频繁更新`量大自由`模块APP。
 

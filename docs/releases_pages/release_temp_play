@@ -1,0 +1,42 @@
+---
+layout: default
+title: 
+parent: 发行版下载
+nav_order: 1
+---
+
+# [LSPatch]
+
+| APP | 版本 |
+| :---: | :---: |
+| `企业微信(WeCom)`本体 | `` |
+| `量大自由`模块 | `` |
+| 原仓库`量大自由`模块 | [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/zxy19/cjluFree?include_prereleases&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=flat-square)](https://github.com/zxy19/cjluFree/releases) |
+
+`量大自由`模块APP`` 下载：
+| 仓库发行版(Release)地址 | [网页链接]() |
+| ---: | :--- |
+| GitHub下载直链 | [地址](替换1) |
+| 加速源下载 | [美国1](https://gh.gh2233.ml/替换1) |
+||[美国2](https://gh2.yanqishui.work/替换1) |
+||[美国3](https://ghdl.z-o.top/替换1) |
+||[美国4](https://gh.ddlc.top/替换1) |
+||[美国5](https://gh-proxy-misakano7545.koyeb.app/替换1)
+||[韩国](https://ghproxy.com/替换1) |
+
+> 注意：加速源随时可能失效，可[提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)至“加速源失效报告”项告知。
+
+仓库发行版Release地址：[]()
+
+共5个APK数据包（部件），请下载后按照 [使用方法](https://zwolken.github.io/cjluFree/#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95) 或 [仓库内README文件](https://github.com/ZWolken/cjluFree#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95) 的描述进行安装。
+
+| 文件名 | GitHub下载直链 | 美国1 | 美国2 | 美国3 | 美国4  | 美国5 | 韩国 |
+| ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| `base-325-lspatched.apk` | [链接](替换2) | [链接](https://gh.gh2233.ml/替换2) | [链接](https://gh2.yanqishui.work/替换2) | [链接](https://ghdl.z-o.top/替换2) | [链接](https://gh.ddlc.top/替换2) | [链接](https://gh-proxy-misakano7545.koyeb.app/替换2) | [链接](https://ghproxy.com/替换2) |
+| `split_config.arm64_v8a-325-lspatched.apk` | [链接](替换3) | [链接](https://gh.gh2233.ml/替换3) | [链接](https://gh2.yanqishui.work/替换3) | [链接](https://ghdl.z-o.top/替换3) | [链接](https://gh.ddlc.top/替换3) | [链接](https://gh-proxy-misakano7545.koyeb.app/替换3) | [链接](https://ghproxy.com/替换3) |
+| `split_config.en-325-lspatched.apk` | [链接](替换4) | [链接](https://gh.gh2233.ml/替换4) | [链接](https://gh2.yanqishui.work/替换4) | [链接](https://ghdl.z-o.top/替换4) | [链接](https://gh.ddlc.top/替换4) | [链接](https://gh-proxy-misakano7545.koyeb.app/替换4) | [链接](https://ghproxy.com/替换4) |
+| `split_config.xxhdpi-325-lspatched.apk` | [链接](替换5) | [链接](https://gh.gh2233.ml/替换5) | [链接](https://gh2.yanqishui.work/替换5) | [链接](https://ghdl.z-o.top/替换5) | [链接](https://gh.ddlc.top/替换5) | [链接](https://gh-proxy-misakano7545.koyeb.app/替换5) | [链接](https://ghproxy.com/替换5) |
+| `split_config.zh-325-lspatched.apk` | [链接](替换6) | [链接](https://gh.gh2233.ml/替换6) | [链接](https://gh2.yanqishui.work/替换6) | [链接](https://ghdl.z-o.top/替换6) | [链接](https://gh.ddlc.top/替换6) | [链接](https://gh-proxy-misakano7545.koyeb.app/替换6) | [链接](https://ghproxy.com/替换6) |
+
+*若需其他本体&模块版本请[新提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)并选择“新版本请求(New version request)”项告知。*
+2022-08-06
