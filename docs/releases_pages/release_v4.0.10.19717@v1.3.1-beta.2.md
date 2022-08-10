@@ -21,7 +21,7 @@ nav_order: 2
 | 加速源下载 | [美国2](https://gh2.yanqishui.work/https://github.com/zxy19/cjluFree/releases/download/v1.3.1-beta.2/B131.apk) |
 | 加速源下载 | [美国3](https://ghdl.z-o.top/https://github.com/zxy19/cjluFree/releases/download/v1.3.1-beta.2/B131.apk) |
 | 加速源下载 | [美国4](https://gh.ddlc.top/https://github.com/zxy19/cjluFree/releases/download/v1.3.1-beta.2/B131.apk) |
-| 加速源下载 | [美国5](https://gh-proxy-misakano7545.koyeb.app/https://github.com/zxy19/cjluFree/releases/download/v1.3.1-beta.2/B131.apk)
+| 加速源下载 | [美国5](https://gh-proxy-misakano7545.koyeb.app/https://github.com/zxy19/cjluFree/releases/download/v1.3.1-beta.2/B131.apk) |
 | 加速源下载 | [韩国](https://ghproxy.com/https://github.com/zxy19/cjluFree/releases/download/v1.3.1-beta.2/B131.apk) |
 
 > 注意：加速源随时可能失效，可[提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)至“加速源失效报告”项告知。
