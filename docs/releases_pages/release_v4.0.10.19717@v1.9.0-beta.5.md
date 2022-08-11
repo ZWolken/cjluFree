@@ -15,6 +15,8 @@ nav_order: 5
 
 `量大自由`模块APP`v1.9.0-beta.5(Alpha 1.9.0)` 下载：
 
+>  123云盘：[下载链接](https://www.123pan.com/s/bir8Vv-E0UK3)（密码：`CJLU`）（失效请 [提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose) 并选择“123盘下载链接失效报告”项）
+
 | 仓库发行版(Release)地址 | [网页链接](https://github.com/zxy19/cjluFree/releases/tag/v1.9.0-beta5) |
 | ---: | :--- |
 | GitHub直链 | [下载链接](https://github.com/zxy19/cjluFree/releases/download/v1.9.0-beta5/A190.apk) |
@@ -33,6 +35,8 @@ nav_order: 5
 仓库发行版Release地址：[https://github.com/ZWolken/cjluFree/releases/tag/v4.0.10.19717@v1.9.0-beta.5](https://github.com/ZWolken/cjluFree/releases/tag/v4.0.10.19717%40v1.9.0-beta.5)
 
 共1个APK数据包，请下载后按照 [使用方法](https://zwolken.github.io/cjluFree/#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95) 的描述进行安装。
+
+>  123云盘：[下载链接](https://www.123pan.com/s/bir8Vv-x0UK3)（密码：`CJLU`）（失效请 [提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose) 并选择“123盘下载链接失效报告”项）
 
 | 文件名 | GitHub直链 | 美国1 | 美国2 | 美国3 | 美国4  | 美国5 | 韩国 |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

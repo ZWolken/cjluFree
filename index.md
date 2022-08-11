@@ -86,6 +86,8 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 2.  安装[`Split APKs Installer`](https://github.com/Aefyr/SAI/releases/latest)(下简称`SAI`)。
 
+    >  123云盘：[`SAI`下载链接](https://www.123pan.com/s/bir8Vv-90UK3)（密码：`CJLU`，可能不是最新版本）（失效请 [提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose) 并选择“123盘下载链接失效报告”项）
+
 3.  安装与您从`步骤1`中下载的APK数据（部件）包**相匹配**的`量大自由`模块APP，相匹配版本的`量大自由`模块APP在`步骤1`[发行版页面](https://github.com/ZWolken/cjluFree/releases)所选择的版本下载页面描述内提供了下载链接地址。
 
     >  注意：已Patch的APK数据（部件）包内包含有与其对应版本的`量大自由`模块APP的组件，若安装不相匹配版本的`量大自由`模块APP，导致所出现的**功能错误、失效**，**开发者并不对其负责**。

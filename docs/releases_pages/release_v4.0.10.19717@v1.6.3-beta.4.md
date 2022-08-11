@@ -15,6 +15,8 @@ nav_order: 3
 
 `量大自由`模块APP`v1.6.3-beta.4(Alpha 1.6.2)` 下载：
 
+>  123云盘：[`量大自由`模块APP`v1.6.3-beta.4(Alpha 1.6.2)`下载链接](https://www.123pan.com/s/bir8Vv-Q0UK3)（密码：`CJLU`）（失效请 [提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose) 并选择“123盘下载链接失效报告”项）
+
 | 仓库发行版(Release)地址 | [网页链接](https://github.com/zxy19/cjluFree/releases/tag/v1.6.3-beta.4) |
 | ---: | :--- |
 | GitHub直链 | [下载链接](https://github.com/zxy19/cjluFree/releases/download/v1.6.3-beta.4/B163.apk) |
@@ -32,6 +34,8 @@ nav_order: 3
 仓库发行版Release地址：[https://github.com/ZWolken/cjluFree/releases/tag/v4.0.10.19717@v1.6.3-beta.4](https://github.com/ZWolken/cjluFree/releases/tag/v4.0.10.19717%40v1.6.3-beta.4)
 
 共1个APK数据包，请下载后按照 [使用方法](https://zwolken.github.io/cjluFree/#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95) 的描述进行安装。
+
+>  123云盘：[下载链接](https://www.123pan.com/s/bir8Vv-40UK3)（密码：`CJLU`）（失效请 [提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose) 并选择“123盘下载链接失效报告”项）
 
 | 文件名 | GitHub直链 | 美国1 | 美国2 | 美国3 | 美国4  | 美国5 | 韩国 |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

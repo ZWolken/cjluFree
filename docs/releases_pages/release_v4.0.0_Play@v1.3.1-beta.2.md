@@ -15,6 +15,8 @@ nav_order: 1
 
 `量大自由`模块APP`v1.3.1-beta.2` 下载：
 
+>  123云盘：[下载链接](https://www.123pan.com/s/bir8Vv-m0UK3)（密码：`CJLU`）（失效请 [提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose) 并选择“123盘下载链接失效报告”项）
+
 | 仓库发行版(Release)地址 | [网页链接](https://github.com/zxy19/cjluFree/releases/tag/v1.3.1-beta.2) |
 | ---: | :--- |
 | GitHub直链 | [下载链接](https://github.com/zxy19/cjluFree/releases/download/v1.3.1-beta.2/B131.apk) |
