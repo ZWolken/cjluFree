@@ -31,7 +31,7 @@ nav_order: 1
 
 仓库发行版Release地址：[https://github.com/ZWolken/cjluFree/releases/tag/v4.0.0_Play@v1.3.1-beta.2](https://github.com/ZWolken/cjluFree/releases/tag/v4.0.0_Play%40v1.3.1-beta.2)
 
-共5个APK数据包（部件），请下载后按照 [使用方法](https://zwolken.github.io/cjluFree/#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)  的描述进行安装。
+共5个APK数据包（部件），请下载后按照 [安装说明](https://zwolken.github.io/cjluFree/docs/install_guide.html)  的描述进行安装。
 
 | 文件名 | GitHub直链 | 美国1 | 美国2 | 美国3 | 美国4  | 美国5 | 韩国 |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

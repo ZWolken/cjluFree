@@ -1,48 +1,10 @@
-# 量大自由
+---
+layout: default
+title: 安装说明
+nav_order: 2
+---
 
-# **建议访问网页(Web)界面查看：[https://zwolken.github.io/cjluFree/](https://zwolken.github.io/cjluFree/)**
-
-## [LSPatch]疫情防控页面快捷方式自动化程序
-
-
-**注意：本程序仅供学习交流使用，请勿于微博、贴吧、钉钉、计量小梦、计量墙等GFW内的公众平台上分享，严禁用于商业用途，请在下载后24小时内删除。**<br>
-本程序中包含了自动完成打卡的相关功能，用意是减少重复劳动，提高效率。<br>
-**警告：疫情防控人人有责，您不应该使用此功能瞒报健康信息甚至归咎于本软件的使用。**
-
-> 本仓库复刻自 [zxy19/cjluFree](https://github.com/zxy19/cjluFree)<br>GitHub仓库地址：[https://github.com/ZWolken/cjluFree](https://github.com/ZWolken/cjluFree)
-
-> 中国计量大学疫情防控功能快捷导航软件。实现打卡和通行码自由！
-
-**注意：** 由于项目的特殊性，本项目可能由于各种原因随时停更，请~~窒息~~知悉。如果本项目关闭，您应当立刻停止使用本软件并删除其全部副本。
-
-## 关于程序权限、隐私处理、原开发者等信息请查阅[原仓库](https://github.com/zxy19/cjluFree)相关内容。
-
-**注意：** 本程序提供了一种注入企业微信的方式，此方式随时可能失效或引起其他不可预期的问题，开发者并不对其负责。
-
-**注意： 若您的手机系统已具备 Xposed / LSPosed / EdXposed / ROOT / Shizuku 环境，请使用[原仓库](https://github.com/zxy19/cjluFree)提供的方法。**
-
-[![GitHub Repo stars](https://img.shields.io/github/stars/ZWolken/cjluFree?style=for-the-badge)](https://github.com/ZWolken/cjluFree)
-[![GitHub all releases](https://img.shields.io/github/downloads/ZWolken/cjluFree/total?style=for-the-badge)](https://github.com/ZWolken/cjluFree/releases)
-
-## 功能
-
-**注意：** 本仓库分支使用的是[LSPatch](https://github.com/LSPosed/LSPatch)修补APP的方式，适用于不具备 Xposed / LSPosed / EdXposed / ROOT / Shizuku 环境的Android系统，因此原程序的部分修改系统的功能（如自动关闭WiFi）均无法实现。
-
-***若有使用相关问题询问或BUG告知请[查看或提交议题(issue)](https://github.com/ZWolken/cjluFree/issues)。***<br>
-***若需其他本体与模块版本整合请[提交新版本请求(New version request)的议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)。***
-
-**本程序实现了下列功能：**
-
-+ 打卡界面和通行码界面一键直达。
-
-+ 打卡提醒桌面小部件。（需`v1.9.0-beta.5`及以上版本的`量大自由`模块APP安装支持）
-
-+ 自动填写并提交打卡表单。
-
-+ 优化通行码布局并添加背景等。
-
-
-## 使用方法
+# 安装说明
 
 >  系统环境要求：Android 9 ~ Android13 Beta 1
 >
@@ -51,7 +13,7 @@
 
 **注意：如果您觉得下述步骤麻烦，请关闭此页面忘记本仓库程序并老老实实自己打卡**
 
-1. 从 [GitHub Release页面](https://github.com/ZWolken/cjluFree/releases) 中选择一个~~你喜欢的~~**合适的**已Patch的版本，并下载其版本包含的全部APK数据（部件）包。
+1. 从 [发行版下载页面](https://zwolken.github.io/cjluFree/docs/releases_pages/) 中选择一个~~你喜欢的~~**合适的**已Patch的版本，并下载其版本包含的全部APK数据（部件）包。
 
     >  **注意：版本号越新并不代表越好用，请选择合适的版本。** 建议自行查阅的更新说明或试用各版本后，选择一个稳定合适的版本使用，并不推荐频繁更新`量大自由`模块APP。
 
@@ -60,6 +22,8 @@
     >  注意：<br>~~Play版本比国内版本权限更加正常纯净（我反正推荐Play菜市场版本，但某些OEM系统会因Google组件的阉割出现各种问题），但是~~Play版本实施了[AAB格式](https://developer.android.com/guide/app-bundle)安装包，因此存在多个分开的数据（组件）包，为保证文件安装正常，**请勿直接从APK文件安装软件本体**。<br>国内版本（数据包无Play后缀且为单文件），可直接从APK文件安装软件本体，并可跳过`步骤2`、`步骤5`、`步骤6`。
 
 2. 安装[`Split APKs Installer`](https://github.com/Aefyr/SAI/releases/latest)(下简称`SAI`)。
+
+    >  123云盘：[`SAI`下载链接](https://www.123pan.com/s/bir8Vv-90UK3)（密码：`CJLU`，可能不是最新版本）（失效请 [提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose) 并选择“123盘下载链接失效报告”项）
 
 3. 安装与您从`步骤1`中下载的APK数据（部件）包**相匹配**的`量大自由`模块APP，相匹配版本的`量大自由`模块APP在`步骤1`[发行版页面](https://github.com/ZWolken/cjluFree/releases)所选择的版本下载页面描述内提供了下载链接地址。
 
@@ -82,7 +46,7 @@
 9. 从`企业微信(WeCom)`本体APP的应用详情界面 **强行停止** 应用，并在后续步骤中通过`量大自由`模块APP打开，以提高`量大自由`模块APP生效概率。
     >  位于手机系统设置的应用管理内，通常可通过长按软件图标直接打开应用详情界面。
 
-10. 后续相关功能设置配置请查看查阅以下内容并使用：<br>- [`量大自由`模块APP使用操作说明](https://zwolken.github.io/cjluFree/docs/plug-in_README/)<br>- 仓库内`量大自由`模块APP的[使用说明文件](https://github.com/ZWolken/cjluFree/blob/LSPatch/docs/plug-in_README/index.md)。<br>- [原仓库](https://github.com/zxy19/cjluFree)的说明。
+10. 后续相关功能设置配置请查看查阅以下内容并使用：<br>- [`量大自由`模块APP使用操作说明](https://zwolken.github.io/cjluFree/docs/plug-in_README/)<br>- [原仓库](https://github.com/zxy19/cjluFree)的说明。
 
     >  首次使用前建议进入`打开设置（使用前请先配置）`部署设置。
 

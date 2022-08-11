@@ -31,7 +31,7 @@ nav_order: 2
 
 仓库发行版Release地址：[https://github.com/ZWolken/cjluFree/releases/tag/v4.0.10.19717@v1.3.1-beta.2](https://github.com/ZWolken/cjluFree/releases/tag/v4.0.10.19717%40v1.3.1-beta.2)
 
-共1个APK数据包，请下载后按照 [使用方法](https://zwolken.github.io/cjluFree/#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95) 的描述进行安装。
+共1个APK数据包，请下载后按照 [安装说明](https://zwolken.github.io/cjluFree/docs/install_guide.html) 的描述进行安装。
 
 >  123云盘：[下载链接](https://www.123pan.com/s/bir8Vv-10UK3)（密码：`CJLU`）（失效请 [提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose) 并选择“123盘下载链接失效报告”项）
 
