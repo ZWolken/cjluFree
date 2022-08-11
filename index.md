@@ -68,4 +68,4 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 ## 安装说明请见：[安装说明页面](https://zwolken.github.io/cjluFree/docs/install_guide.html)
 
-## 使用操作说明请见：[`量大自由`模块APP使用操作说明](https://zwolken.github.io/cjluFree/docs/plug-in_README/)
+## 使用操作说明请见：[`量大自由`模块APP使用操作说明页面](https://zwolken.github.io/cjluFree/docs/plug-in_README/)
