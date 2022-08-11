@@ -20,15 +20,19 @@ has_toc: false
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/zxy19/cjluFree?include_prereleases&style=for-the-badge)](https://github.com/zxy19/cjluFree/releases)
 
->  123云盘：[下载链接](https://www.123pan.com/s/bir8Vv-p0UK3)（密码：`CJLU`）（失效请 [提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose) 并选择“123盘下载链接失效报告”项）
+>  123云盘：[下载链接](https://www.123pan.com/s/bir8Vv-p0UK3)（密码：`CJLU`，可能不包含最新版本）（失效请 [提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose) 并选择“123盘下载链接失效报告”项）
 
 ## Split APKs Installer
 
 GitHub发行版(Release)界面：[网页链接](https://github.com/Aefyr/SAI/releases/latest)
 
->  123云盘：[下载链接](https://www.123pan.com/s/bir8Vv-90UK3)（密码：`CJLU`，可能不是最新版本）（失效请 [提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose) 并选择“123盘下载链接失效报告”项）
+>  123云盘：[下载链接](https://www.123pan.com/s/bir8Vv-f0UK3)（密码：`CJLU`，可能不是最新版本）（失效请 [提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose) 并选择“123盘下载链接失效报告”项）
 
-## 版本历史：
+## 版本下载：
+
+>  **注意：版本号越新并不代表越好用，请选择合适的版本。** 建议自行查阅的更新说明或试用各版本后，选择一个稳定合适的版本使用，并不推荐频繁更新`量大自由`模块APP。
+
+>  关于不同`量大自由`模块APP的版本区别请前往[原仓库发行版页面](https://github.com/zxy19/cjluFree/releases)查看。
 
 | 序号 | `企业微信(WeCom)`本体版本 | `量大自由`模块版本 | LSPatch修补版本 |
 | ---: | :---: | :---: | :---: |
