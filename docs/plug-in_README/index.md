@@ -26,7 +26,7 @@ has_toc: false
 
 ### 视频演示：
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1hv4y1F7UF&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="350px" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1hv4y1F7UF&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="400px" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
 
 ## 详细操作及设置说明
 
