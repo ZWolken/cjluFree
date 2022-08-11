@@ -16,7 +16,7 @@ has_toc: false
 
 > 建议自行查阅的更新说明或试用各版本后，选择一个稳定合适的版本使用，并不推荐频繁更新模块APP。<br>([@Wolken](https://github.com/ZWolken))
 
-## 原仓库`量大自由`模块最新版本：
+## 原仓库`量大自由`模块APP最新版本：
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/zxy19/cjluFree?include_prereleases&style=for-the-badge)](https://github.com/zxy19/cjluFree/releases)
 
@@ -34,7 +34,7 @@ GitHub发行版(Release)界面：[网页链接](https://github.com/Aefyr/SAI/rel
 
 >  关于不同`量大自由`模块APP的版本区别请前往[原仓库发行版页面](https://github.com/zxy19/cjluFree/releases)查看。
 
-| 序号 | `企业微信(WeCom)`本体版本 | `量大自由`模块版本 | LSPatch修补版本 |
+| 序号 | `企业微信(WeCom)`本体APP版本 | `量大自由`模块APP版本 | LSPatch修补版本 |
 | ---: | :---: | :---: | :---: |
 | 01 | `v4.0.0(Play version)` | `v1.3.1-beta.2` | [下载地址](https://zwolken.github.io/cjluFree/docs/releases_pages/release_v4.0.0_Play@v1.3.1-beta.2.html) |
 | 02 | `v4.0.10.19717` | `v1.3.1-beta.2` | [下载地址](https://zwolken.github.io/cjluFree/docs/releases_pages/release_v4.0.10.19717@v1.3.1-beta.2.html) |
