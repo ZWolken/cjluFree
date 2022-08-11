@@ -11,6 +11,8 @@ nav_order: 2
 >  注意：**本程序随时可能在包括但不局限于下方的OEM系统中失效：<br>EMUI / HarmonyOS<br>ColorOS<br>MIUI**
 <br>原因：上述系统的[PMS核心服务](https://developer.android.com/reference/android/content/pm/PackageManager)均有不同程度的缺失损坏，由系统核心服务缺失损坏引起的程序异常无法解决。<br>~~解决方法：若想正常使用，请咨询您的OEM开发商为什么要破坏其系统的[PMS核心服务](https://developer.android.com/reference/android/content/pm/PackageManager)。~~
 
+## 安装步骤
+
 **注意：如果您觉得下述步骤麻烦，请关闭此页面忘记本仓库程序并老老实实自己打卡**
 
 1. 从 [发行版下载页面](https://zwolken.github.io/cjluFree/docs/releases_pages/) 中选择一个~~你喜欢的~~**合适的**已Patch的版本，并下载其版本包含的全部APK数据（部件）包。
