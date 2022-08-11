@@ -29,7 +29,7 @@ nav_order: 4
 
 > 注意：加速源随时可能失效，可[提交议题(issue)](https://github.com/ZWolken/cjluFree/issues/new/choose)至“加速源失效报告”项告知。
 
-> 注意：下载界面的标题为Beta 1.6.3，实际安装包的版本为Alpha 1.6.2。~~原作者的版本号命名规则我不懂.jpg~~
+> 注意：GitHub仓库发行版下载界面的标题为Beta 1.6.3，实际安装包的版本为Alpha 1.6.2。~~原作者的版本号命名规则我不懂.jpg~~
 
 仓库发行版Release地址：[https://github.com/ZWolken/cjluFree/releases/tag/v4.0.0_Play@v1.6.3-beta.4](https://github.com/ZWolken/cjluFree/releases/tag/v4.0.0_Play%40v1.6.3-beta.4)
 

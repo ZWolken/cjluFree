@@ -1,8 +1,8 @@
 # 量大自由
 
-## [LSPatch]疫情防控页面快捷方式自动化程序
+# **建议访问网页(Web)界面查看：[https://zwolken.github.io/cjluFree/](https://zwolken.github.io/cjluFree/)**
 
-建议访问网页(Web)界面查看：[https://zwolken.github.io/cjluFree/](https://zwolken.github.io/cjluFree/)
+## [LSPatch]疫情防控页面快捷方式自动化程序
 
 
 **注意：本程序仅供学习交流使用，请勿于微博、贴吧、钉钉、计量小梦、计量墙等GFW内的公众平台上分享，严禁用于商业用途，请在下载后24小时内删除。**<br>
