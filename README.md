@@ -1,6 +1,6 @@
 # 量大自由
 
-# **建议访问网页(Web)界面查看：[https://zwolken.github.io/cjluFree/](https://zwolken.github.io/cjluFree/)**
+# **建议访问网页(Web)界面查看：<https://zwolken.github.io/cjluFree/>**
 
 ## [LSPatch]疫情防控页面快捷方式自动化程序
 
@@ -9,7 +9,8 @@
 本程序中包含了自动完成打卡的相关功能，用意是减少重复劳动，提高效率。<br>
 **警告：疫情防控人人有责，您不应该使用此功能瞒报健康信息甚至归咎于本软件的使用。**
 
-> 本仓库复刻自 [zxy19/cjluFree](https://github.com/zxy19/cjluFree)<br>GitHub仓库地址：[https://github.com/ZWolken/cjluFree](https://github.com/ZWolken/cjluFree)
+> 本仓库复刻自 [zxy19/cjluFree](https://github.com/zxy19/cjluFree)\
+> GitHub仓库地址：<https://github.com/ZWolken/cjluFree>
 
 > 中国计量大学疫情防控功能快捷导航软件。实现打卡和通行码自由！
 
